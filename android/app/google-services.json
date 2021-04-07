@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "220652352236",
+    "project_id": "silva-jewellery",
+    "storage_bucket": "silva-jewellery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220652352236:android:55bb16d06c5399be1b2bc9",
+        "android_client_info": {
+          "package_name": "com.example.silva_jewellery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220652352236-vj8ca53r7dum8hf061u3soff292odgif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoCwboUDrAVlCB13m4V4X_rvAiRT3kKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220652352236-vj8ca53r7dum8hf061u3soff292odgif.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220652352236-2hqj3vds5bi0g0ep6ku28lsald0i85gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "redha-riyadh.silvaJewellery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
